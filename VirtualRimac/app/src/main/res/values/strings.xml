@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Virtual Rimac</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="title_1">La Colonia</string>
+    <string name="title_2">Virreynato</string>
+    <string name="title_3">Patrimonio</string>
+
+    <string name="texto">El Rímac es el lugar más antiguo, tradicional e histórico de la Ciudad de Lima, Capital del Perú.</string>
+    <string name="texto2">El Rímac se convierte en un lugar de solaz y esparcimiento de la sociedad colonial limeña.</string>
+    <string name="texto3">La Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura “UNESCO”.</string>
+</resources>
